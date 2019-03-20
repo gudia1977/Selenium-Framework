@@ -1,2 +1,3 @@
 driver= new chromeDriver();
 driver= new firefoxdriver();
+driver= new IEdriver();
