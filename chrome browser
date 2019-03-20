@@ -1,1 +1,2 @@
 driver= new chromeDriver();
+driver= new firefoxdriver();
